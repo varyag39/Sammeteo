@@ -86,7 +86,7 @@ td{
 }
 .daught{
 	position:relative;
-	height:10em;
+	height:7.5em;
 	border:1px solid silver;
 }
 .nth_str{
@@ -197,4 +197,5 @@ footer > p a:active{text-decoration:none;color:#646B63}
 		height:13em;
 	}
 }
+
 
