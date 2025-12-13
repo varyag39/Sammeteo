@@ -109,7 +109,7 @@
 					if(choice=="Light freezing rain" || choice == "Patchy rain nearby"){
 						img_1.src = rain_path;
 					}
-					if(choice == "Mist" || choice == "Freezing fog"){
+					if(choice == "Mist" || choice == "Freezing fog" || choice=="Fog"){
 						img_1.src = mist;
 					}
 				}
@@ -222,7 +222,7 @@
 					if(choice=="Light freezing rain" || choice == "Patchy rain nearby"){
 						img_2.src = rain_path;
 					}
-					if(choice == "Mist" || choice == "Freezing fog"){
+					if(choice == "Mist" || choice == "Freezing fog"|| choice=="Fog"){
 						img_2.src = mist;
 					}
 				}
@@ -332,7 +332,7 @@
 					if(choice=="Light freezing rain" || choice == "Patchy rain nearby"){
 						img_3.src = rain_path;
 					}
-					if(choice == "Mist" || choice == "Freezing fog"){
+					if(choice == "Mist" || choice == "Freezing fog"|| choice=="Fog"){
 						img_3.src = mist;
 					}
 				}
@@ -442,7 +442,7 @@
 					if(choice=="Light freezing rain" || choice == "Patchy rain nearby"){
 						img_4.src = rain_path;
 					}
-					if(choice == "Mist" || choice == "Freezing fog"){
+					if(choice == "Mist" || choice == "Freezing fog"|| choice=="Fog"){
 						img_4.src = mist;
 					}
 				}
@@ -551,7 +551,7 @@
 					if(choice=="Light freezing rain" || choice == "Patchy rain nearby"){
 						img_5.src = rain_path;
 					}
-					if(choice == "Mist" || choice == "Freezing fog"){
+					if(choice == "Mist" || choice == "Freezing fog"|| choice=="Fog"){
 						img_5.src = mist;
 					}
 				}
@@ -659,7 +659,7 @@
 					if(choice=="Light freezing rain" || choice == "Patchy rain nearby"){
 						img_6.src = rain_path;
 					}
-					if(choice == "Mist" || choice == "Freezing fog"){
+					if(choice == "Mist" || choice == "Freezing fog"|| choice=="Fog"){
 						img_6.src = mist;
 					}
 				}
@@ -768,7 +768,7 @@
 					if(choice=="Light freezing rain" || choice == "Patchy rain nearby"){
 						img_7.src = rain_path;
 					}
-					if(choice == "Mist" || choice == "Freezing fog"){
+					if(choice == "Mist" || choice == "Freezing fog"|| choice=="Fog"){
 						img_7.src = mist;
 					}
 				}
@@ -877,7 +877,7 @@
 					if(choice=="Light freezing rain" || choice == "Patchy rain nearby"){
 						img_8.src = rain_path;
 					}
-					if(choice == "Mist" || choice == "Freezing fog"){
+					if(choice == "Mist" || choice == "Freezing fog"|| choice=="Fog"){
 						img_8.src = mist;
 					}
 				}
@@ -987,7 +987,7 @@
 					if(choice=="Light freezing rain" || choice == "Patchy rain nearby"){
 						img_9.src = rain_path;
 					}
-					if(choice=="Mist" || choice == "Freezing fog"){
+					if(choice=="Mist" || choice == "Freezing fog"|| choice=="Fog"){
 						img_9.src = mist;
 					}
 				}
@@ -1097,7 +1097,7 @@
 					if(choice=="Light freezing rain" || choice == "Patchy rain nearby"){
 						img_10.src = rain_path;
 					}
-					if(choice == "Mist" || choice == "Freezing fog"){
+					if(choice == "Mist" || choice == "Freezing fog"|| choice=="Fog"){
 						img_10.src = mist;
 					}
 				}
@@ -1207,7 +1207,7 @@
 					if(choice=="Light freezing rain" || choice == "Patchy rain nearby"){
 						img_11.src = rain_path;
 					}
-					if(choice == "Mist" || choice == "Freezing fog"){
+					if(choice == "Mist" || choice == "Freezing fog"|| choice=="Fog"){
 						img_11.src = mist;
 					}
 				}
@@ -1316,7 +1316,7 @@
 					if(choice=="Light freezing rain" || choice == "Patchy rain nearby"){
 						img_12.src = rain_path;
 					}
-					if(choice = "Mist" || choice == "Freezing fog"){
+					if(choice = "Mist" || choice == "Freezing fog"|| choice=="Fog"){
 						img_12.src = mist;
 					}
 				}
@@ -1425,7 +1425,7 @@
 					if(choice=="Light freezing rain" || choice == "Patchy rain nearby"){
 						img_13.src = rain_path;
 					}
-					if(choice = "Mist" || choice == "Freezing fog"){
+					if(choice = "Mist" || choice == "Freezing fog"|| choice=="Fog"){
 						img_13.src = mist;
 					}
 				}
@@ -1534,7 +1534,7 @@
 					if(choice=="Light freezing rain" || choice == "Patchy rain nearby"){
 						img_14.src = rain_path;
 					}
-					if(choice == "Mist" || choice == "Freezing fog"){
+					if(choice == "Mist" || choice == "Freezing fog"|| choice=="Fog"){
 						img_14.src = mist;
 					}
 				}
@@ -1644,7 +1644,7 @@
 					if(choice=="Light freezing rain" || choice == "Patchy rain nearby"){
 						img_15.src = rain_path;
 					}
-					if(choice == "Mist" || choice == "Freezing fog"){
+					if(choice == "Mist" || choice == "Freezing fog"|| choice=="Fog"){
 						img_15.src = mist;
 					}
 				}
@@ -1753,7 +1753,7 @@
 					if(choice=="Light freezing rain" || choice == "Patchy rain nearby"){
 						img_16.src = rain_path;
 					}
-					if(choice == "Mist" || choice == "Freezing fog"){
+					if(choice == "Mist" || choice == "Freezing fog"|| choice=="Fog"){
 						img_16.src = mist;
 					}
 				}
@@ -1863,7 +1863,7 @@
 					if(choice=="Light freezing rain" || choice == "Patchy rain nearby"){
 						img_17.src = rain_path;
 					}
-					if(choice == "Mist" || choice == "Freezing fog"){
+					if(choice == "Mist" || choice == "Freezing fog"|| choice=="Fog"){
 						img_17.src = mist;
 					}
 				}
@@ -1972,7 +1972,7 @@
 					if(choice=="Light freezing rain" || choice == "Patchy rain nearby"){
 						img_18.src = rain_path;
 					}
-					if(choice == "Mist" || choice == "Freezing fog"){
+					if(choice == "Mist" || choice == "Freezing fog"|| choice=="Fog"){
 						img_18.src = mist;
 					}
 				}
@@ -1991,4 +1991,5 @@
 					day_of_w_18.style = "color:red";
 				}
 				
+
 			}
