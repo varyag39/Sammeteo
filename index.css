@@ -156,9 +156,15 @@ footer > p{
 		width:100px;
 	}
 	.nth{
+		margin-left:1.2em;
+	}
+}
+@media (max-width:1080){
+	.nth{
 		margin-left:2em;
 	}
 }
+
 
 
 
